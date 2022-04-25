@@ -5,9 +5,12 @@
 #### Q1. What type of light never casts a shadow in a 3D scene?
 
 - [ ] Parallel
-- [ ] Ambient
+- [x] Ambient
 - [ ] Point
 - [ ] Spot
+
+Proof:https://www.pluralsight.com/blog/film-games/understanding-different-light-types#:~:text=Ambient%20Light%20An%20ambient%20light,all%20objects%20in%20a%20scene.
+
 
 #### Q2. Where do you change the shutter angle for the motion blur in a composition?
 
